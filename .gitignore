@@ -13,3 +13,9 @@ benchmark/browser-bundle.js
 
 lib/jsdom/living/generated/**/*.js
 lib/jsdom/browser/js-globals.json
+
+# Idea
+.idea
+
+# package-lock
+package-lock.json
