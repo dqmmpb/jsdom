@@ -18,7 +18,10 @@
     "Pierre-Marie Dartus <dartus.pierremarie@gmail.com>"
   ],
   "license": "MIT",
-  "repository": "jsdom/jsdom",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jsdom/jsdom.git"
+  },
   "dependencies": {
     "abab": "^2.0.3",
     "acorn": "^7.1.0",
